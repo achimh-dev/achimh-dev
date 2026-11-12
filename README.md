@@ -4,19 +4,15 @@
 
 Ich bin Digitalexperte, Berater, Speaker und LinkedIn Learning Trainer aus Dortmund. Ich helfe Menschen und Unternehmen, digitale Entwicklungen zu verstehen und sinnvoll einzusetzen. Auf GitHub zeige ich die praktische Seite dieser Arbeit: eigene KI-Anwendungen, Automatisierungen und selbst gehostete Werkzeuge für den Alltag.
 
-[Website](https://achimhepp.de) · [LinkedIn](https://www.linkedin.com/in/achimhepp/)
+[Website](https://achimhepp.de) · [LinkedIn](https://www.linkedin.com/in/achimhepp/) · [Instagram](https://www.instagram.com/achimh/) · [YouTube](https://youtube.com/@achimh)
 
 ## Was ich baue
 
-Unter **#machen** entwickle ich Anwendungen aus konkreten eigenen Anforderungen. Drei Beispiele:
+Unter **#machen** baue ich mir Schritt für Schritt eine eigene Suite digitaler Werkzeuge auf – für meine eigenen Bedürfnisse und die Aufgaben, die mir im Alltag begegnen.
 
-| Projekt | Idee | Technik |
-|---|---|---|
-| **HeppGPT** | LinkedIn-Profile mit KI strukturiert analysieren und Verbesserungsvorschläge verständlich machen. | Next.js, TypeScript, OpenAI, Supabase |
-| **#machen Dashboard** | Informationen aus verschiedenen Quellen in einer gemeinsamen Übersicht zusammenbringen. | React, TypeScript, Express, PostgreSQL |
-| **#machen Transfer** | Dateien über einen selbst gehosteten Dienst senden und anfordern. | Node.js, Express, tus, Docker |
+Dabei löse ich mich zunehmend von Cloud-Diensten und Abo-Modellen und entwickle eigene, möglichst selbst gehostete Lösungen. Mein Ziel: mehr Kontrolle über meine Daten, weniger laufende Abhängigkeiten und Werkzeuge, die zu meiner Arbeitsweise passen.
 
-HeppGPT befindet sich in Entwicklung; der Zahlungsablauf nutzt den Testmodus. Dashboard und Transfer sind eigene Anwendungen. Die zugehörigen Quellcode-Repositories sind privat. Dieses Profil zeigt ausgewählte Projektbeschreibungen.
+Was entsteht, wächst aus der Praxis: Ich probiere aus, verbinde und automatisiere, was mir hilft, und entwickle die Suite im täglichen Einsatz weiter. KI ist dabei ein Werkzeug für die Umsetzung und Teil neuer Möglichkeiten.
 
 ## Wie ich arbeite
 
